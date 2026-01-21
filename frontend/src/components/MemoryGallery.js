@@ -38,13 +38,15 @@ export const MemoryGallery = () => {
               <div className="aspect-[4/3] overflow-hidden rounded-lg mb-4">
                 <img
                   src={memory.image}
-                  alt={memory.caption}
+                  alt={memory.caption || "Memory"}
                   className="w-full h-full object-cover"
                 />
               </div>
-              <p className="font-accent text-xl text-center text-text-muted">
-                {memory.caption}
-              </p>
+              {memory.caption && (
+                <p className="font-accent text-xl text-center text-text-muted">
+                  {memory.caption}
+                </p>
+              )}
             </motion.div>
           ))}
         </div>
