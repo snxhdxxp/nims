@@ -66,23 +66,23 @@ export const admirationPoints = [
 
 export const memories = [
   {
-    image: "https://images.pexels.com/photos/4918675/pexels-photo-4918675.jpeg",
-    caption: "That perfect afternoon we spent together",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/qpygdnt4_WhatsApp%20Image%202026-01-21%20at%2016.31.15.jpeg",
+    caption: "",
     rotation: -2
   },
   {
-    image: "https://images.pexels.com/photos/4746215/pexels-photo-4746215.jpeg",
-    caption: "When you made me laugh until I cried",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/ibank88n_WhatsApp%20Image%202026-01-21%20at%2016.31.16.jpeg",
+    caption: "",
     rotation: 3
   },
   {
-    image: "https://images.pexels.com/photos/5769518/pexels-photo-5769518.jpeg",
-    caption: "Our adventure that turned into a story",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/uj65hzep_WhatsApp%20Image%202026-01-21%20at%2016.31.49%20%281%29.jpeg",
+    caption: "",
     rotation: -1
   },
   {
-    image: "https://images.pexels.com/photos/5638732/pexels-photo-5638732.jpeg",
-    caption: "The moment I knew you were special",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/b3m5w6i7_WhatsApp%20Image%202026-01-21%20at%2016.31.49.jpeg",
+    caption: "",
     rotation: 2
   }
 ];
