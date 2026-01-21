@@ -66,22 +66,22 @@ export const admirationPoints = [
 
 export const memories = [
   {
-    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/qpygdnt4_WhatsApp%20Image%202026-01-21%20at%2016.31.15.jpeg",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/2907g2co_WhatsApp%20Image%202026-01-21%20at%2016.31.15.jpeg",
     caption: "",
     rotation: -2
   },
   {
-    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/ibank88n_WhatsApp%20Image%202026-01-21%20at%2016.31.16.jpeg",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/rem9rqpl_WhatsApp%20Image%202026-01-21%20at%2016.31.16%20%281%29.jpeg",
     caption: "",
     rotation: 3
   },
   {
-    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/uj65hzep_WhatsApp%20Image%202026-01-21%20at%2016.31.49%20%281%29.jpeg",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/7fp5pa40_WhatsApp%20Image%202026-01-21%20at%2016.31.49%20%281%29.jpeg",
     caption: "",
     rotation: -1
   },
   {
-    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/b3m5w6i7_WhatsApp%20Image%202026-01-21%20at%2016.31.49.jpeg",
+    image: "https://customer-assets.emergentagent.com/job_79c7bba3-d536-4831-b09b-c3c1c8e79b60/artifacts/258znnas_WhatsApp%20Image%202026-01-21%20at%2016.31.49.jpeg",
     caption: "",
     rotation: 2
   }
